@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+visiovista.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+.walmartimages.com	TRUE	/	FALSE	1999999999	__cfduid	d55bf70cd1f35c77f3cdbbd67c9e17eee1554909292
+.rapgenius.com	TRUE	/	FALSE	1999999999	__cfduid	defab504905269b46cc2deccff2a623881554909477
+
